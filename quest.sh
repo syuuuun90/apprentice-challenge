@@ -1,17 +1,16 @@
 
-echo "
-パスワードマネージャーへようこそ！
+echo "パスワードマネージャーへようこそ！
 サービス名を入力してください：
 ユーザー名を入力してください：
 パスワードを入力してください："
 
-read survice_name
-read user_nema
+read service_name
+read user_name
 read password
 
 echo "
-サービス名:$survice_name 
-ユーザー名:$user_nema 
+サービス名:$service_name 
+ユーザー名:$user_name 
 パスワード:$password" >> info.txt
 
 echo "Thank you!"
