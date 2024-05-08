@@ -48,4 +48,3 @@ esac
 }
 
 password_manager
-
