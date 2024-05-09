@@ -34,3 +34,15 @@
 サービス名:hiroaka 
 ユーザー名:daisuki 
 パスワード:hawks
+
+サービス名:qwe 
+ユーザー名:asd 
+パスワード:
+
+サービス名:ppp 
+ユーザー名:lll 
+パスワード:mmm
+
+サービス名:sss 
+ユーザー名:ddd 
+パスワード:fff
